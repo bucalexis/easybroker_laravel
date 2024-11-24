@@ -12,7 +12,7 @@ Execute the commands
 ./vendor/bin/sail npm run dev
 ```
 
-##Tests
+## Tests
 There are two very basic tests in the project that can be executed with the command
 
 ```
