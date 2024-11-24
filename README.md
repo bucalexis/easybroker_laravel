@@ -1,9 +1,12 @@
+## About
+
+This small Laravel project uses the EasyBroker API and for the front-end it uses the (Vuetify framework)[https://vuetifyjs.com/en/getting-started/installation/#installation]
+It shows a page using the first results obtained fetching EasyBroker properties from their staging API
 
 
 ## Running on local
 
 To run this project easily you can use Laravel [Sail](https://laravel.com/docs/11.x/sail#main-content). For this, you must have docker running on your machine.
-For the front-end it uses the (Vuetify framework)[https://vuetifyjs.com/en/getting-started/installation/#installation]
 
 Execute the commands
 ```
@@ -14,6 +17,7 @@ Execute the commands
 ```
 
 ## Tests
+
 There are two very basic tests in the project that can be executed with the command
 
 ```
