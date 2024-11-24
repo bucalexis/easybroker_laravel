@@ -2,7 +2,8 @@
 
 ## Running on local
 
-To run this project easily you can use Laravel [Sail](https://laravel.com/docs/11.x/sail#main-content). For this you must have docker running on your machine.
+To run this project easily you can use Laravel [Sail](https://laravel.com/docs/11.x/sail#main-content). For this, you must have docker running on your machine.
+For the front-end it uses the (Vuetify framework)[https://vuetifyjs.com/en/getting-started/installation/#installation]
 
 Execute the commands
 ```
@@ -16,7 +17,7 @@ Execute the commands
 There are two very basic tests in the project that can be executed with the command
 
 ```
-./vendor/bin/sailsail php artisan test
+./vendor/bin/sail php artisan test
 ```
 
 ## Demo
