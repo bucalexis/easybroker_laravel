@@ -28,8 +28,3 @@ There are two very basic tests in the project that can be executed with the comm
 ## Demo
 
 [You can watch here a live demo of the project](https://laravel-production-acb6.up.railway.app/). 
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
