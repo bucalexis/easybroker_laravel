@@ -1,6 +1,6 @@
 ## About
 
-This small Laravel project uses the EasyBroker API and for the front-end it uses the (Vuetify framework)[https://vuetifyjs.com/en/getting-started/installation/#installation]
+This small Laravel project uses the EasyBroker API and for the front-end it uses the [Vuetify framework](https://vuetifyjs.com/en/getting-started/installation/#installation)
 It shows a page using the first results obtained fetching EasyBroker properties from their staging API
 
 
